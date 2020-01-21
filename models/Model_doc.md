@@ -2,8 +2,7 @@
 A report to provide details on a specific data science model.  
 
 <div id="problem-identification" class="section level2">
-<h2>Problem Identification</h2>
-<hr />
+<h2>Problem Identification</h2> 
 <div id="define-the-questiongenerate-a-working-hypothesis." class="section level3">
 <h3>Define the question:Generate a working hypothesis.</h3>
 <div id="identify-the-modeling-project-goal." class="section level4">
