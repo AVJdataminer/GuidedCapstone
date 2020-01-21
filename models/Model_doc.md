@@ -28,7 +28,8 @@ A report to provide details on a specific data science model.
 </div>
 <div id="what-deliverables-will-be-generated" class="section level4">
 <h4>What Deliverables will be generated:</h4>
-<p>e.g.PDF outlining modeling process from data exploration to best model results.</p>
+<p>e.g.PDF outlining modeling process from data exploration to best model results.</p> . 
+   
 ## Data Preprocessing steps of note  
     * e.g. dropped duplicate rows
     * e.g. created PCA for dimension reduction
