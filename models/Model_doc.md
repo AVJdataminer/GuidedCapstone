@@ -1,10 +1,12 @@
-# Model Report
+From step 6. of the [Data Science Method](http://bit.ly/2T6Hpp5) 
+
+# Data Science Model Report Template
 A report to provide details on a specific data science model.  
 
 <div id="problem-identification" class="section level2">
 <h2>Problem Identification</h2> 
 <div id="define-the-questiongenerate-a-working-hypothesis." class="section level3">
-<h3>Define the question:Generate a working hypothesis.</h3>
+<h3>Define the question specific to modeling activities</h3>
 <div id="identify-the-modeling-project-goal." class="section level4">
 <h4>Identify the modeling project Goal.</h4>
 <p>e.g Predict device failures.</p>
