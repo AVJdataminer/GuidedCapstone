@@ -1,4 +1,4 @@
-Developed as part of step 6. of the [Data Science Method](http://bit.ly/2T6Hpp5) by [Aiden v. Johnson](breakthroughdatascience.com)
+Developed as part of step 6. of the [Data Science Method](http://bit.ly/2T6Hpp5) by [Aiden V. Johnson](www.breakthroughdatascience.com)
 
 # Data Science Model Report Template
 A report to provide details on a specific data science model.  
