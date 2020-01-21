@@ -1,6 +1,6 @@
 # Model Report
 A report to provide details on a specific data science model.  
-## Brief Problem Identification & Overview
+
 <div id="problem-identification" class="section level2">
 <h2>Problem Identification</h2>
 <hr />
